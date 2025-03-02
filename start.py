@@ -10,18 +10,6 @@ import os
 import usb.core
 import usb.util
 
-import cv2
-import tkinter as tk
-from tkinter import ttk, filedialog
-from PIL import Image, ImageTk
-import threading
-import queue
-import time
-import datetime
-import os
-import usb.core
-import usb.util
-
 class VideoRecorderApp:
     def __init__(self, root):
         self.root = root
