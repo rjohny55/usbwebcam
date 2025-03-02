@@ -3,7 +3,6 @@ USBWEBCAM for MAC OS
 codecs 
 ('H.264 (.mp4)', 'avc1', 'mp4'),
 ('MPEG-4 (.mp4)', 'mp4v', 'mp4'),
-('X264 (.mp4)', 'X264', 'mp4'),
 ('MJPG (.avi)', 'MJPG', 'avi'),
 ('XVID (.avi)', 'XVID', 'avi')
 
