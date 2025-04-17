@@ -1,6 +1,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-USBWEBCAM for MAC OS
+
+**USBWEBCAM for MAC OS
 
 codecs 
 ('H.264 (.mp4)', 'avc1', 'mp4'),
